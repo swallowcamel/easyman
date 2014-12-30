@@ -8,7 +8,7 @@
 			<key>assets</key>
 			<array>
 				<dict>
-					<key>kind</key>
+					   <key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
 					<string>http://218.205.243.101/download/LSZHYWGL.ipa</string>
