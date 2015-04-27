@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.easyman.ryyf</string>
+				<string>com.easyman.MobilePhoneMall</string>
 				<key>bundle-version</key>
-				<string>2.1.1</string>
+				<string>1.0.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>dazhouyixianyingxiao</string>
+				<string>一线营销</string>
 			</dict>
 		</dict>
 	</array>
