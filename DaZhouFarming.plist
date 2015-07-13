@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://218.200.187.203:8002/upload/appstore/DaZhouFarming.ipa</string>
+					<string>http://dev2.easyman.com.cn:8001/dazhoufarming.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
