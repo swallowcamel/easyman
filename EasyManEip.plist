@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://dev2.easyman.com.cn:8001/App/easyman-ios.ipa</string>
+					<string>https://eip.easyman.com.cn/app/easyman-ios.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
