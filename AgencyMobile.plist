@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://xxx/Agency-Mobile.ipa</string>
+					<string>http://adp.blob.core.chinacloudapi.cn/msl-develop-files/Agency-Mobile.ipa?sig=%2BQdVklAiJyukH58OlNCL12yHCBd5%2BsxaS9U17Ptk0QQ%3D&se=2068-05-01T09%3A50%3A08Z&sv=2015-07-08&spr=https%2Chttp&sp=racwdl&sr=c</string>
 				</dict>
 			</array>
 			<key>metadata</key>
